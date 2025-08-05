@@ -83,7 +83,7 @@
 ### ✍️ Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" alt="Cool Banner"/>
+
 
 ---
 
@@ -91,9 +91,7 @@
 [![Abhishek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhi07rana&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTYyZGtoam43dmFkeHlvOTF2djIwMzBjajljeW9qOTZjbHdjdnRkcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oFzm9r8nz1CmqYtmU/giphy.gif" width="500">
-</p>
+
 
 ### 📫 Let's Connect
 <p>
@@ -107,3 +105,5 @@
     <img alt="Website" src="https://img.shields.io/badge/Portfolio-grey?style=flat-square&logo=google-chrome">
   </a>
 </p>
+
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" alt="Cool Banner"/>
