@@ -1,25 +1,109 @@
-# 💫 About Me:
-🔭 I’m currently working on:  <br>Scaling and optimizing **[MapChat Hub](https://mapchathub-abhishek.onrender.com/)** — a real-time location-based chat application with avatars, notifications, and chat history. I’m also refining its backend performance and preparing for future AI & AR integrations.<br><br>👯 I’m looking to collaborate on:  <br>- **Remote React projects**  <br>- **Full-stack web apps** (MERN/Laravel + React)  <br>- **Open-source AI tools and APIs**  <br>- **Startup teams focused on innovation and real-world impact**<br><br>🤝 I’m looking for help with:  <br>- Building **scalable AI backends**  <br>- Contributing to **open-source GenAI projects**  <br>- Collaborating with **like-minded React Native & full-stack devs**<br><br>🌱 I’m currently learning:  <br>- **System Design** for large-scale applications  <br>- **Trading algorithms** and day trading strategies  <br>- **LLMs & GenAI** for real-world applications  <br>- **Advanced DSA** for placement and competitive coding  <br><br>💬 Ask me about:  <br>Full-stack development, React Native apps, AI integrations, resume optimization tools, or how I built my projects like **Smart ATS** and **MapChat Hub**.<br><br>⚡ Fun fact:  <br>I turn ideas into fully functional apps fast — whether it's a trading bot or a voice-activated news assistant. Also, I’ve been a **college coding topper** and part of **Amazon ML Summer School 2024**! 🚀<br>
+<p align="center">
+  <img src="https://media.giphy.com/media/rofsCdigOv1wk/giphy.gif" alt="Heisenberg Breaking Bad" width="500">
+</p>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekrana9756) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranaabhishek9756@gmail.com) 
+<h1 align="center">Hi 👋, I'm Abhishek Rana</h1>
+<h3 align="center">🚀 BTech CS Student | AI & Web Dev Enthusiast | Passionate Builder</h3>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=plastic&logo=Playstation&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhi07rana&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abhi07rana&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi07rana&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+Websites;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abhi07rana&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhi07rana&icon=5&color=12)](https://visitcount.itsvg.in)
 
 
+<p align="center">
+  <img src="https://media.tenor.com/EisEpgE4nMkAAAAd/breaking-bad.gif" alt="Hisenberg" width="500"/>
+</p>
+
+### 🌟 About Me
+
+🎓 I’m a BTech Computer Science student at **Graphic Era Hill University**, India  
+🌐 I build full-stack apps, AI tools, and automation projects  
+🛠️ Technologies I love: React.js, Node.js, Laravel APIs, Python, C++, AI/ML, SQL  
+📈 Selected for **Amazon ML Summer School 2024**  
+💡 Motto: *"Dream it, build it, optimize it."*  
+📫 Portfolio: [https://abhi07rana.github.io/Portfolio-webiste/](https://abhi07rana.github.io/Portfolio-webiste/)
+
+---
+
+### 🚀 My Tech Stack
+
+#### 👨‍💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
+
+#### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js)
+
+#### 🛠️ Backend & DB
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql)
+
+#### 🧠 AI/ML & Tools
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
+![Whisper](https://img.shields.io/badge/Whisper-000000?style=flat-square&logo=whisper&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+#### 🧰 Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi07rana&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhi07rana&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi07rana&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+![](https://github-profile-trophy.vercel.app/?username=abhi07rana&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" alt="Cool Banner"/>
+
+---
+
+### 🔥 GitHub Contribution Graph
+[![Abhishek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhi07rana&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTYyZGtoam43dmFkeHlvOTF2djIwMzBjajljeW9qOTZjbHdjdnRkcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oFzm9r8nz1CmqYtmU/giphy.gif" width="500">
+</p>
+
+### 📫 Let's Connect
+<p>
+  <a href="https://www.linkedin.com/in/abhishekrana9756/" target="_blank">
+    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="https://github.com/abhi07rana" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github">
+  </a>
+  <a href="https://abhi07rana.github.io/Portfolio-webiste/" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Portfolio-grey?style=flat-square&logo=google-chrome">
+  </a>
+</p>
