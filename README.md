@@ -14,9 +14,7 @@
 ---
 
 
-<p align="center">
-  <img src="https://media.tenor.com/EisEpgE4nMkAAAAd/breaking-bad.gif" alt="Hisenberg" width="500"/>
-</p>
+
 
 ### 🌟 About Me
 
